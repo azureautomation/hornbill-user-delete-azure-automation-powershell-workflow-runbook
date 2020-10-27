@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 1886,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-user-delete-azure-automation-powershell-workflow-runbook/master/Hornbill_UserDelete_Workflow.ps1",
+    "DownloadCount": 685,
+    "Id": "Hornbill-User-Delete-Azure-e55209c1",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 492,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Azure Powershell Workflow runbook to delete a user from a Hornbill Instance",
+    "Title": "Hornbill User Delete - Azure Automation Powershell Workflow Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-user-delete-azure-automation-powershell-workflow-runbook",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
